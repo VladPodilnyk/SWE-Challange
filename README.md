@@ -12,7 +12,7 @@ Due to the fact that I have not decided how the project list will look like, I'v
 4. Build a compiler of VM
 5. Use twitter trands to define mood on Twitter (back + front + NLP)
 6. Write a web scrapper (next level: use Spark to analyse the data)
-7. Chat-app (yup, very creative, I know ...)
+7. Hackers chat: chat on ws with CLI (super nerdy project)
 8. web-crawler
 9. Bloom filter implementation
 10. Labs + Project from http://nil.csail.mit.edu/6.824/2017/index.html (Distributed Sytems)
