@@ -10,7 +10,7 @@ Due to the fact that I have not decided how the project list will look like, I'v
 2. Build a simple OS (Rust + RaspberryPi, https://github.com/phil-opp/blog_os)
 3. Convey's game of life (my tribute to front-end)
 4. Build a compiler of VM
-5. Use twitter trands to define mood on Twitter (back + front + NLP)
+5. Use twitter trands to define mood on Twitter (back + front + NLP) - [link to the project page](https://github.com/VladPodilnyk/twitter-mood)
 6. Write a web scrapper (next level: use Spark to analyse the data)
 7. Hackers chat: chat on ws with CLI (super nerdy project)
 8. web-crawler
