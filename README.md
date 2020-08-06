@@ -9,21 +9,21 @@ Due to the fact that I have not decided how the project list will look like, I'v
 1. Build an FTP-server
 2. Build a simple OS (Rust + RaspberryPi, https://github.com/phil-opp/blog_os)
 3. Convey's game of life (my tribute to front-end)
-4. Build a compiler of VM
+4. Build a compiler or VM
 5. Use twitter trands to define mood on Twitter (back + front + NLP) - [link to the project page](https://github.com/VladPodilnyk/twitter-mood)
 6. Write a web scrapper (next level: use Spark to analyse the data)
 7. Hackers chat: chat on ws with CLI (super nerdy project)
 8. web-crawler
 9. Bloom filter implementation
 10. Labs + Project from http://nil.csail.mit.edu/6.824/2017/index.html (Distributed Sytems)
-11. Bandwidth monitor or system monitory (will be in Golang probably)
+11. Bandwidth monitor or system monitory (will be in Rust probably)
 12. Build own TCP/IP stack
 13. Make interesting data viz
-14. Implement an autopilot using simulator
+14. Implement an autopilot using simulator (carla) 
 15. game shaders (https://github.com/lettier/3d-game-shaders-for-beginners)
 16. build a ray tracer. 
 17. implement a simple DB.
 18. implements a simple debugger.
 19. Stock, currency info dashboard.
-20. Music generator
+20. Music generator (probably using magenta)
 21. and many more hopefuly... (https://github.com/kkdai/project52)
