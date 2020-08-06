@@ -1,6 +1,6 @@
-# SWE Challange
+# SWE Challenge
 
-The aim of the challange is to become a better software engineer by developing various projects from different areas of CS. While at the very begining it will be mostly about functional progdramming, Scala, web development and distributed systems, my goal is to cover another interesting for me areas like embedded systems, ML, game development and computer graphics. Anyway, the most important thing here is to have fun!
+The aim of the challenge is to become a better software engineer by developing various projects from different areas of CS. While at the very begining it will be mostly about functional progdramming, Scala, web development and distributed systems, my goal is to cover another interesting for me areas like embedded systems, ML, game development and computer graphics. Anyway, the most important thing here is to have fun!
 
 ## Sandbox of project ideas
 
