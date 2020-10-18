@@ -6,11 +6,11 @@ The aim of the challenge is to become a better software engineer by developing v
 
 Due to the fact that I have not decided how the project list will look like, I've listed a few project that I'd like to work on. So for now, it's just a list of ideas that does not specify any order, but lately I'll come up with some structure.
 
-1. Build an FTP-server
+1. Use twitter trends to define mood on Twitter (back + front + NLP) - [link to the project page](https://github.com/VladPodilnyk/twitter-mood)
 2. Build a simple OS (Rust + RaspberryPi, https://github.com/phil-opp/blog_os)
 3. Convey's game of life (my tribute to front-end)
 4. Build a compiler or VM
-5. Use twitter trands to define mood on Twitter (back + front + NLP) - [link to the project page](https://github.com/VladPodilnyk/twitter-mood)
+5. Build an FTP-server
 6. Write a web scrapper (next level: use Spark to analyse the data)
 7. Hackers chat: chat on ws with CLI (super nerdy project)
 8. web-crawler
