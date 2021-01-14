@@ -28,3 +28,4 @@ Due to the fact that I have not decided how the project list will look like, I'v
 20. Music generator (probably using magenta)
 21. and many more hopefuly... (https://github.com/kkdai/project52)
 22. <spike project> *private* - convenient wrapper on C++ over OpenCL to work with N-dimensional data with ease.
+23. a real time game based on reactive architecture (scala + monix): this idea is not formalised yet.
