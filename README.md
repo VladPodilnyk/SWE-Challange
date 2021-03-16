@@ -29,3 +29,4 @@ Due to the fact that I have not decided how the project list will look like, I'v
 21. and many more hopefuly... (https://github.com/kkdai/project52)
 22. <spike project> *private* - convenient wrapper on C++ over OpenCL to work with N-dimensional data with ease.
 23. a real time game based on reactive architecture (scala + monix): this idea is not formalised yet.
+24. fs2-dataframe - a lib that helps working with data in pandas-like style using fs2 streams ?
