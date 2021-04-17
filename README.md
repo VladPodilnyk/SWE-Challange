@@ -8,7 +8,7 @@ Due to the fact that I have not decided how the project list will look like, I'v
 
 1. Use twitter trends to define mood on Twitter (back + front + NLP) - [link to the project page](https://github.com/VladPodilnyk/twitter-mood)
 2. Build a simple OS (Rust + RaspberryPi, https://github.com/phil-opp/blog_os)
-3. Convey's game of life (my tribute to front-end)
+3. Convey's game of life + collision simulation using Laminar + Animus (should be awsome!)
 4. Build a compiler or VM
 5. Build an FTP-server
 6. Write a web scrapper (next level: use Spark to analyse the data)
