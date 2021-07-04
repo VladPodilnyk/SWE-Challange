@@ -28,8 +28,10 @@ Due to the fact that I have not decided how the project list will look like, I'v
 20. Music generator (probably using magenta)
 21. and many more hopefuly... (https://github.com/kkdai/project52)
 22. <spike project> *private* - convenient wrapper on C++ over OpenCL to work with N-dimensional data with ease.
-23. a real time game based on reactive architecture (scala + monix): this idea is not formalised yet.
+23. a real time game based on reactive architecture (scala + monix): this idea is not formalised yet (smth like that https://github.com/LukeGarrigan/spaceheir)
 24. fs2-dataframe - a lib that helps working with data in pandas-like style using fs2 streams ?
 25. redis based adaptive throttler
 26. write own NTFS in rust.
 27. Rework ZIO-app with CE3 + laminar
+28. Jam base management app
+29. trello clone.
